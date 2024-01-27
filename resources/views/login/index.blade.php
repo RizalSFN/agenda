@@ -12,14 +12,6 @@
             </span>
         </div>
     </a>
-
-    <a href="index.html" class="auth-logo-dark">
-        <div class="avatar-md profile-user-wid mb-4">
-            <span class="avatar-title rounded-circle bg-light">
-                <img src="assets/images/logo.svg" alt="" class="rounded-circle" height="34">
-            </span>
-        </div>
-    </a>
 </div>
 <div class="p-2">
     <form class="form-horizontal" action="{{ url('login/proses')}}" method="post">
